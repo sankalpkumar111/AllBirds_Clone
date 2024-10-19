@@ -72,7 +72,7 @@ http://localhost:3000
 
 Here are some screenshots of the AllBirds clone:
 
-![Screenshot of website](path_to_your_screenshot.png)
+![Screenshot of website](assets/screenshot)
 
 Add more screenshots as needed to showcase your work.
 
