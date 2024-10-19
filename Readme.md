@@ -1,4 +1,4 @@
-```markdown
+
 # AllBirds Clone
 
 This project is a clone of the AllBirds website built using Tailwind CSS. The goal of this project is to replicate the design and responsiveness of the original AllBirds website as closely as possible using modern web technologies.
